@@ -8,8 +8,10 @@ packages you want to load, the rest of the config is up to you, and Corgi itself
 is lean enough that it's still possible to read and understand every line in an
 afternoon.
 
-Corgi relies on the [straight.el] functional package manager for reproducible
-installs. Under the `corgi-emacs` Github organization you'll find:
+Corgi relies on the
+[straight.el](https://github.com/raxod502/straight.el#git-backend) functional
+package manager for reproducible installs. Under the `corgi-emacs` Github
+organization you'll find:
 
 - [corgi-emacs/corgi](https://github.com/corgi-emacs/corgi): Documentation and sample config
 - [corgi-emacs/corgi-packages](https://github.com/corgi-emacs/corgi-packages): Straight.el package repo providing the various Corgi packages and meta-packages
